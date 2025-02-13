@@ -1,4 +1,4 @@
-# Python Lab 4: Word Vector Analogies
+# Word Vector Analogies
 
 ## Description
 This Python program implements a word vector analogy solver using FastText word embeddings. The main goal of the application is to solve analogies like:
